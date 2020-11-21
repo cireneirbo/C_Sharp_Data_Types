@@ -18,6 +18,7 @@ namespace C_Sharp_Data_Types
 
             Console.WriteLine("Area of Rectangle = " + length * width);
             Console.WriteLine();
+            Console.WriteLine("----------------------------------------------------");
         }
     }
 }

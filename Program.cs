@@ -9,6 +9,7 @@ namespace C_Sharp_Data_Types
             InputOutput.HelloUser();
             AreaOfRectangle.CalculateArea();
             GasMileageCalculator.CalculateMileage();
+            StringSearch.SearchForString();
         }
     }
 }

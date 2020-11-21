@@ -14,6 +14,7 @@ namespace C_Sharp_Data_Types
             double milesPerGallon = miles / 45;
             Console.WriteLine("Your trip will require " + (Math.Floor(milesPerGallon * 100) / 100) + " gallons of gasoline, and cost you $" + (Math.Floor((milesPerGallon * 1.9) * 100) / 100) + " at current fuel prices.");
             Console.WriteLine();
+            Console.WriteLine("----------------------------------------------------");
         }
     }
 }

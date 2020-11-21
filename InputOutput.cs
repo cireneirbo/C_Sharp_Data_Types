@@ -12,6 +12,7 @@ namespace C_Sharp_Data_Types
             string name = Console.ReadLine();
             Console.WriteLine("Hello " + name + "!");
             Console.WriteLine();
+            Console.WriteLine("----------------------------------------------------");
         }
     }
 }

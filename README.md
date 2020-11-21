@@ -1,5 +1,5 @@
 # C_Sharp_Data_Types
-A practice console line application.
+A practice command line application.
 
 ### 1. Input/Output
 Write a new “Hello, World” program to prompt the user for their name and greet them by name.
